@@ -1,2 +1,2 @@
--e git://github.com/yvesalexandre/bandicoot.git
+git+git://github.com/yvesalexandre/bandicoot.git
 tqdm
