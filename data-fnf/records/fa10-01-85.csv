@@ -1,0 +1,10 @@
+interaction,direction,correspondent_id,datetime,call_duration,antenna_id
+call,out,14d7f58f9f232c2184553dbdb24515889fb195ee,2010-10-27 13:35:08,,
+call,out,14d7f58f9f232c2184553dbdb24515889fb195ee,2010-10-27 13:18:40,,
+call,out,fa10-01-04,2010-10-27 13:17:44,,
+call,out,fa10-01-04,2010-10-27 18:09:14,,
+call,out,fa10-01-04,2010-11-01 16:21:35,,
+call,out,fa10-01-04,2010-11-04 23:15:51,,
+call,out,fa10-01-04,2010-11-15 18:19:30,,
+call,out,fa10-01-04,2010-12-23 01:05:15,,
+text,in,7c4a8d09ca3762af61e59520943dc26494f8941b,2011-04-08 15:26:55,,
